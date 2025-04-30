@@ -49,6 +49,7 @@ $ npm install
 ```
 
 [typescript]: https://www.typescriptlang.org/
+[typescript-npm]: https://www.npmjs.com/package/typescript
 [tsx-npm]: https://www.npmjs.com/package/tsx
 [tsup-npm]: https://www.npmjs.com/package/tsup
 [@types/node-npm]: https://www.npmjs.com/package/@types/node
