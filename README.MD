@@ -42,8 +42,13 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 $ git clone https://github.com/JaquelineBravin/Node-TypeScript-boilerplate.git
 
 # Go into the repository
-$ cd node-blue-boilerplate
+$ cd node-ts-boilerplate
 
 # Install dependencies
 $ npm install
 ```
+
+[typescript]: https://www.typescriptlang.org/
+[tsx-npm]: https://www.npmjs.com/package/tsx
+[tsup-npm]: https://www.npmjs.com/package/tsup
+[@types/node-npm]: https://www.npmjs.com/package/@types/node
